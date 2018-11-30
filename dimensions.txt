@@ -1,0 +1,13 @@
+1. nightlife, bars, wine bars, cocktail bars
+2. fast food
+3. chinese
+4. japanese,sushi bars
+5. Thai, Vietnamese, Asian Fusion
+6. Mexican, Latin American, Tacos
+7. French
+8. Italian
+9. American (New), American (Traditional), Burgers, Pizza
+10. Vegan, Vegetarian, Gluten-Free
+11. Coffee & Tea, Cafes, Desserts
+12. Mediterranean, Greek
+13. Indian, Halal
